@@ -1,0 +1,4 @@
+1	Chipotles	4.00	Cans
+2	Mayo	3.00	Cups
+3	Oregano	4.00	Tbsp
+4	Basil	2.00	Tbsp

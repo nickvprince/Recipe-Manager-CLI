@@ -1,0 +1,7 @@
+1	Romain	1.00	Head
+2	Bacon	8.00	Pieces
+3	DicedTomato	1.00	Cups
+4	SlicedAvocado	1.00	ToSight
+5	MincedGreenOnion	0.50	Cups
+6	MixedCheese	0.00	ToSight
+7	RanchDressing	0.00	ToSight

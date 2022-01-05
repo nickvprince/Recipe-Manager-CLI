@@ -1,0 +1,3 @@
+1	Garlic	4.00	Cups
+2	Basil	4.00	Tbsp
+3	Mayo	3.00	Cups

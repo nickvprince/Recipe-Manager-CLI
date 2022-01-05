@@ -1,0 +1,7 @@
+1	BalsamicVinegar	1.50	Cups
+2	BrownSugar	1.00	Cups
+3	Salt	4.00	Tsp
+4	Pepper	4.00	Tsp
+5	DijonMustard	2.00	Tsp
+6	MincedGarlic	0.50	Cups
+7	VegetableOil	0.00	ToSight

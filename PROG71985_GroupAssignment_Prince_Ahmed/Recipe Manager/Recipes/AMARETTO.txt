@@ -1,0 +1,6 @@
+1	Water	1.00	Cups
+2	WhiteSugar	1.00	Cups
+3	BrownSugar	0.50	Cups
+4	Vodka	2.00	Cups
+5	AlmondExtract	2.00	Tbsp
+6	VanillaExtract	2.00	Tsp

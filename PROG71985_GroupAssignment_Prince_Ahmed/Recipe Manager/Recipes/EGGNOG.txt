@@ -1,0 +1,7 @@
+1	Milk	2	Cups
+2	EggsYolks	4.00	ToSight
+3	EggWhites	4.00	ToSight
+4	Sugar	100	ml
+5	HeavyCream	1.00	Cups
+6	Bourbon	3.00	oz
+7	Nutmeg	1.00	Tsp

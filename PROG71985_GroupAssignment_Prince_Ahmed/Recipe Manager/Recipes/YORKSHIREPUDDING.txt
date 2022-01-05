@@ -1,0 +1,4 @@
+1	Eggs	3.00	ToSight
+2	Milk	1.00	Cups
+3	AllPurposeFlour	1.00	Cups
+4	Butter	2.00	Tbsp
