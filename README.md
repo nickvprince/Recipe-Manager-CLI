@@ -44,4 +44,4 @@ Nicholas Prince | nprince3037@conestogac.on.ca
 Islam Ahmed | iahmed9886@conestogac.on.ca
 <br />
 
-Project Link: [https://github.com/nickvprince/PROG71985_RecipeManager_Prince_Ahmed](https://github.com/nickvprince/PROG71985_RecipeManager_Prince_Ahmed)
+Project Link: [https://github.com/nickvprince/Recipe-Manager-CLI](https://github.com/nickvprince/Recipe-Manager-CLI)
